@@ -3,6 +3,10 @@
 
 This is a clone website of Netflix where user can browse and explore a collection of movies and TV shows. This website is made using HTML & CSS 
 
+# Screenshots
+
+![Screenshot 2023-09-08 125810](https://github.com/saikarthik090/Netflix_clone/assets/143206816/c199f4eb-4888-4dd1-af63-9ed68bdfe8d6)
+![Screenshot 2023-09-08 130002](https://github.com/saikarthik090/Netflix_clone/assets/143206816/daa3d4ba-0199-4c70-8cc8-ed2243baa8f4)
 
 ## Demo
 
