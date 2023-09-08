@@ -20,8 +20,3 @@ https://saikarthik090.github.io/Netflix_clone/
 ## 🛠 Skills
 Javascript, HTML, CSS...
 
-
-## Screenshots
-
-![App Screenshots](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
